@@ -7,7 +7,7 @@ I am doing the Java Course at Vinsys IT services.
 
 ## My Skills
 **Languages:** HTML ,CSS ,C, C++ ,Java , Python  
-**Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint,Eclipse
+**Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint,Eclipse <br>
 **Database:** SQL
 
 ## Stregnths
