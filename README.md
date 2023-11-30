@@ -3,7 +3,7 @@
 ------------------------------------------
 ## About me  👽
 I am a CS undergraduate at Jaihind College of Engineering, Kuran, India.
-Working as a Developer at CCA, a non-profit tech organisation of our institute.
+.
 
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
 
