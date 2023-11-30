@@ -4,10 +4,17 @@
 ## About me  
 I completed my bachelor of Computer Engineering at Jaihind College of Engineering, Kuran, India.
 I am doing the Java Course at Vinsys IT services.
+
+## My Skills
+**Languages:** HTML ,CSS ,C, C++ ,Java , Python  
+**Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint,Eclipse
+**Database:** SQL
+
 ## Stregnths
 1.Ability to adpat the new things.   <br>
 2.Strong work ethic and determination to succeed.  <br>
 3.Believe in team work
+
 ## Internship
 1.Completed **Web designing** internship at Reva Tech Software Solution.<br>
 2.Completed Internship in **Hardware and Networking** at Morya Computer Services
