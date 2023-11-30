@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I am Vaibhavi
 
-<!--
-**VaibhaviKhaire/VaibhaviKhaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------
+## About me  👽
+I am a CS undergraduate at Jaihind College of Engineering, Kuran, India.
+Working as a Developer at CCA, a non-profit tech organisation of our institute.
 
-Here are some ideas to get you started:
+I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on something cool. :Java
+
+How to reach me
+📝 You can also find me writing at Medium
+🤝 And making connections on Linkedin
