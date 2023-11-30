@@ -2,12 +2,12 @@
 
 
 ## About me  
-I completed my bachelor of Computer Engineering at Jaihind College of Engineering, Kuran, India.
+I completed my bachelor of Computer Engineering at Jaihind College of Engineering, Kuran, India.<br>
 I am doing the Java Course at Vinsys IT services.
 
 ## My Skills
-**Languages:** HTML ,CSS ,C, C++ ,Java , Python  
-**Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint,Eclipse <br>
+**Languages:** HTML , CSS , C, C++ ,Java , Python  
+**Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint, Eclipse <br>
 **Database:** SQL
 
 ## Stregnths
