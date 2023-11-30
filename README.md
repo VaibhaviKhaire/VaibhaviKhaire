@@ -1,6 +1,6 @@
-# Hi there 👋 I am Vaibhavi
+# Hello 👋 I am Vaibhavi
 
-------------------------------------------
+
 ## About me  
 I completed my bachelor of Computer Engineering at Jaihind College of Engineering, Kuran, India.
 I am doing the Java Course at Vinsys IT services.
