@@ -9,8 +9,8 @@ I am doing the Java Course at Vinsys IT services.
 2.Strong work ethic and determination to succeed.  <br>
 3.Believe in team work
 ## Internship
-1.Completed Web design internship at Reva Tech Software Solution.<br>
-2.Completed Internship in Hardware and Networking at Morya Computer Services
+1.Completed **Web designing** internship at Reva Tech Software Solution.<br>
+2.Completed Internship in **Hardware and Networking** at Morya Computer Services
 
 
 ## Extra Curricular Activities
