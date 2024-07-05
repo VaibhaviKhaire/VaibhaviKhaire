@@ -6,9 +6,9 @@ I completed my bachelor of Computer Engineering at Jaihind College of Engineerin
 I am doing the Java Course at Vinsys IT services.
 
 ## My Skills
-**Languages:** HTML , CSS , C, C++ ,Java , Python ,Spring ,Spring boot, Javascript,React  <br>
+**Languages:** HTML , CSS , C, C++ ,Java , Node js ,Spring ,Spring boot, Javascript,React js ,MongoD  <br>
 **Tools & Technologies:** Ms Excel , Ms Word , Ms PowerPoint, Eclipse <br>
-**Database:** SQL
+**Database:** SQL, MYSQL
 
 ## Stregnths
 1.Ability to adpat the new things.   <br>
