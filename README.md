@@ -3,7 +3,7 @@
 
 ## About me  
 I completed my bachelor of Computer Engineering at Jaihind College of Engineering, Kuran, India.<br>
-I am doing the Java Course at Vinsys IT services.
+
 
 ## My Skills
 **Languages:** HTML , CSS , C, C++ ,Java , Node js ,Spring ,Spring boot, Javascript,React js ,MongoD  <br>
@@ -22,6 +22,7 @@ I am doing the Java Course at Vinsys IT services.
 
 ## Extra Curricular Activities
 1.Completed Course on Java Full Stack development from Anudip Foundation. <br>
+2.Completed Java Course at Vinsys IT services.
 2.Completed Time management, Basic and Advanced Excel, Business Communication ,Blockchain  Session at Lila Poonawala Foundation.
 
 
